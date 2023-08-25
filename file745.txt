@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi all,
-good morning today date is 25/08/2023
+good morning today date is 25/08/2023......1st
+
+>>>>>>> dev
